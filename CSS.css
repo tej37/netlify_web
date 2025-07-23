@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif; /* Choisir une police conviviale */
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5dc; /* Crème */
+    color: #333;
+}
+
+header {
+    background-color: #a0522d; /* Marron foncé */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 2em;
+}
+
+#accueil {
+    background-color: #f5f5dc; /* Crème */
+}
+
+#menu ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#menu li {
+    margin-bottom: 0.5em;
+}
+
+
+#contact {
+    background-color: #deb887; /* Marron clair */
+}
+
+footer {
+    background-color: #a0522d; /* Marron foncé */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
